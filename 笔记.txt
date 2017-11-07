@@ -1,0 +1,4 @@
+1.springboot respongse 中文乱码问题，使用ISO8859-1或者UT-8解决
+2.获取输出流response.getOutputStream
+3.excel表格使用XSSFWorkbook类，pom文件中加入poi和poi-ooxml依赖
+4.
